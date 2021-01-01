@@ -15,6 +15,9 @@ function App() {
                     height: 64px;
                     background: #181818;
                 }
+                h1 {
+                    color: white;
+                }
             `}</style>
         </div>
     );

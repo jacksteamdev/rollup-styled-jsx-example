@@ -16,7 +16,7 @@
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "styled-jsx-for-rollup": "^3.3.3"
+    "styled-jsx": "npm:styled-jsx-for-rollup@^3.3.5"
   },
   "devDependencies": {
     "@babel/core": "^7.11.6",
